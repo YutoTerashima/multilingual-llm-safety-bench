@@ -60,3 +60,10 @@ and an analysis report in
 
 `examples/check_stratification.py` verifies language and label distribution before
 comparing model behavior across languages.
+## Real Public Dataset Experiment
+
+        The benchmark now includes `datasets/external/multilingual_safety_features.jsonl`, a
+        hashed feature sample from
+        [lumees/multilingual-safety-classification-dataset](https://huggingface.co/datasets/lumees/multilingual-safety-classification-dataset).
+        The report studies language coverage and safety-label balance rather than relying only on
+        hand-written demo prompts.

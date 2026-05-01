@@ -1,0 +1,111 @@
+{
+  "sample_size": 320,
+  "sampling": "stratified_offsets",
+  "offsets": [
+    0,
+    5000,
+    10000,
+    20000,
+    50000,
+    100000,
+    150000,
+    200000
+  ],
+  "languages": {
+    "amh_Ethi": 40,
+    "ben_Beng": 40,
+    "bos_Latn": 40,
+    "ces_Latn": 40,
+    "ind_Latn": 40,
+    "nso_Latn": 40,
+    "srp_Cyrl": 40,
+    "yor_Latn": 40
+  },
+  "labels": {
+    "2": 157,
+    "0": 92,
+    "1": 71
+  },
+  "top_pairs": [
+    [
+      "ben_Beng:2",
+      24
+    ],
+    [
+      "yor_Latn:2",
+      24
+    ],
+    [
+      "ind_Latn:2",
+      22
+    ],
+    [
+      "nso_Latn:2",
+      19
+    ],
+    [
+      "srp_Cyrl:2",
+      19
+    ],
+    [
+      "bos_Latn:2",
+      17
+    ],
+    [
+      "srp_Cyrl:0",
+      17
+    ],
+    [
+      "amh_Ethi:2",
+      16
+    ],
+    [
+      "ces_Latn:2",
+      16
+    ],
+    [
+      "amh_Ethi:0",
+      14
+    ],
+    [
+      "bos_Latn:1",
+      13
+    ],
+    [
+      "ces_Latn:0",
+      13
+    ],
+    [
+      "ces_Latn:1",
+      11
+    ],
+    [
+      "ind_Latn:0",
+      11
+    ],
+    [
+      "nso_Latn:0",
+      11
+    ],
+    [
+      "amh_Ethi:1",
+      10
+    ],
+    [
+      "bos_Latn:0",
+      10
+    ],
+    [
+      "nso_Latn:1",
+      10
+    ],
+    [
+      "ben_Beng:0",
+      8
+    ],
+    [
+      "ben_Beng:1",
+      8
+    ]
+  ]
+}
