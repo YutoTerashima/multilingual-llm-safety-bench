@@ -1,0 +1,642 @@
+[
+  {
+    "experiment_id": "char_ngram_tfidf",
+    "text": "[redacted classified safety case; chars=56; approx_tokens=8]",
+    "true": "safe",
+    "pred": "unsafe",
+    "score": 0.5614561183552034,
+    "failure_type": "false_positive"
+  },
+  {
+    "experiment_id": "char_ngram_tfidf",
+    "text": "[redacted classified safety case; chars=159; approx_tokens=33]",
+    "true": "unsafe",
+    "pred": "safe",
+    "score": 0.46172474676690856,
+    "failure_type": "false_negative"
+  },
+  {
+    "experiment_id": "char_ngram_tfidf",
+    "text": "[redacted classified safety case; chars=152; approx_tokens=25]",
+    "true": "safe",
+    "pred": "unsafe",
+    "score": 0.5831637186034426,
+    "failure_type": "false_positive"
+  },
+  {
+    "experiment_id": "char_ngram_tfidf",
+    "text": "[redacted classified safety case; chars=28; approx_tokens=6]",
+    "true": "unsafe",
+    "pred": "safe",
+    "score": 0.19035623958534423,
+    "failure_type": "false_negative"
+  },
+  {
+    "experiment_id": "char_ngram_tfidf",
+    "text": "[redacted classified safety case; chars=72; approx_tokens=10]",
+    "true": "unsafe",
+    "pred": "safe",
+    "score": 0.3186544291566533,
+    "failure_type": "false_negative"
+  },
+  {
+    "experiment_id": "char_ngram_tfidf",
+    "text": "[redacted classified safety case; chars=114; approx_tokens=4]",
+    "true": "unsafe",
+    "pred": "safe",
+    "score": 0.4031127192893884,
+    "failure_type": "false_negative"
+  },
+  {
+    "experiment_id": "char_ngram_tfidf",
+    "text": "[redacted classified safety case; chars=104; approx_tokens=14]",
+    "true": "unsafe",
+    "pred": "safe",
+    "score": 0.48418916816217383,
+    "failure_type": "false_negative"
+  },
+  {
+    "experiment_id": "char_ngram_tfidf",
+    "text": "[redacted classified safety case; chars=159; approx_tokens=21]",
+    "true": "unsafe",
+    "pred": "safe",
+    "score": 0.26469535989590526,
+    "failure_type": "false_negative"
+  },
+  {
+    "experiment_id": "char_ngram_tfidf",
+    "text": "[redacted classified safety case; chars=411; approx_tokens=63]",
+    "true": "safe",
+    "pred": "unsafe",
+    "score": 0.7828955467520383,
+    "failure_type": "false_positive"
+  },
+  {
+    "experiment_id": "char_ngram_tfidf",
+    "text": "[redacted classified safety case; chars=10; approx_tokens=1]",
+    "true": "unsafe",
+    "pred": "safe",
+    "score": 0.4031127192893884,
+    "failure_type": "false_negative"
+  },
+  {
+    "experiment_id": "char_ngram_tfidf",
+    "text": "[redacted classified safety case; chars=197; approx_tokens=30]",
+    "true": "safe",
+    "pred": "unsafe",
+    "score": 0.6872163726205285,
+    "failure_type": "false_positive"
+  },
+  {
+    "experiment_id": "char_ngram_tfidf",
+    "text": "[redacted classified safety case; chars=73; approx_tokens=10]",
+    "true": "unsafe",
+    "pred": "safe",
+    "score": 0.4328299215721104,
+    "failure_type": "false_negative"
+  },
+  {
+    "experiment_id": "char_ngram_tfidf",
+    "text": "[redacted classified safety case; chars=205; approx_tokens=31]",
+    "true": "unsafe",
+    "pred": "safe",
+    "score": 0.4092198142516256,
+    "failure_type": "false_negative"
+  },
+  {
+    "experiment_id": "char_ngram_tfidf",
+    "text": "[redacted classified safety case; chars=35; approx_tokens=2]",
+    "true": "unsafe",
+    "pred": "safe",
+    "score": 0.4031127192893884,
+    "failure_type": "false_negative"
+  },
+  {
+    "experiment_id": "char_ngram_tfidf",
+    "text": "[redacted classified safety case; chars=86; approx_tokens=15]",
+    "true": "safe",
+    "pred": "unsafe",
+    "score": 0.5801861998763891,
+    "failure_type": "false_positive"
+  },
+  {
+    "experiment_id": "char_ngram_tfidf",
+    "text": "[redacted classified safety case; chars=57; approx_tokens=9]",
+    "true": "safe",
+    "pred": "unsafe",
+    "score": 0.7872085096474292,
+    "failure_type": "false_positive"
+  },
+  {
+    "experiment_id": "char_ngram_tfidf",
+    "text": "[redacted classified safety case; chars=499; approx_tokens=72]",
+    "true": "unsafe",
+    "pred": "safe",
+    "score": 0.45894012315757626,
+    "failure_type": "false_negative"
+  },
+  {
+    "experiment_id": "char_ngram_tfidf",
+    "text": "[redacted classified safety case; chars=168; approx_tokens=28]",
+    "true": "safe",
+    "pred": "unsafe",
+    "score": 0.7186797221110363,
+    "failure_type": "false_positive"
+  },
+  {
+    "experiment_id": "char_ngram_tfidf",
+    "text": "[redacted classified safety case; chars=314; approx_tokens=57]",
+    "true": "safe",
+    "pred": "unsafe",
+    "score": 0.6014269354310666,
+    "failure_type": "false_positive"
+  },
+  {
+    "experiment_id": "char_ngram_tfidf",
+    "text": "[redacted classified safety case; chars=152; approx_tokens=20]",
+    "true": "unsafe",
+    "pred": "safe",
+    "score": 0.4344670884839147,
+    "failure_type": "false_negative"
+  },
+  {
+    "experiment_id": "char_ngram_tfidf",
+    "text": "[redacted classified safety case; chars=53; approx_tokens=11]",
+    "true": "unsafe",
+    "pred": "safe",
+    "score": 0.4992471802778459,
+    "failure_type": "false_negative"
+  },
+  {
+    "experiment_id": "char_ngram_tfidf",
+    "text": "[redacted classified safety case; chars=81; approx_tokens=12]",
+    "true": "safe",
+    "pred": "unsafe",
+    "score": 0.9143616151751152,
+    "failure_type": "false_positive"
+  },
+  {
+    "experiment_id": "char_ngram_tfidf",
+    "text": "[redacted classified safety case; chars=48; approx_tokens=7]",
+    "true": "unsafe",
+    "pred": "safe",
+    "score": 0.48920502266798693,
+    "failure_type": "false_negative"
+  },
+  {
+    "experiment_id": "char_ngram_tfidf",
+    "text": "[redacted classified safety case; chars=174; approx_tokens=21]",
+    "true": "unsafe",
+    "pred": "safe",
+    "score": 0.49197841587293223,
+    "failure_type": "false_negative"
+  },
+  {
+    "experiment_id": "char_ngram_tfidf",
+    "text": "[redacted classified safety case; chars=23; approx_tokens=1]",
+    "true": "unsafe",
+    "pred": "safe",
+    "score": 0.4031127192893884,
+    "failure_type": "false_negative"
+  },
+  {
+    "experiment_id": "char_ngram_tfidf",
+    "text": "[redacted classified safety case; chars=89; approx_tokens=16]",
+    "true": "unsafe",
+    "pred": "safe",
+    "score": 0.46101861150495616,
+    "failure_type": "false_negative"
+  },
+  {
+    "experiment_id": "char_ngram_tfidf",
+    "text": "[redacted classified safety case; chars=29; approx_tokens=1]",
+    "true": "unsafe",
+    "pred": "safe",
+    "score": 0.4960338275005651,
+    "failure_type": "false_negative"
+  },
+  {
+    "experiment_id": "char_ngram_tfidf",
+    "text": "[redacted classified safety case; chars=486; approx_tokens=68]",
+    "true": "safe",
+    "pred": "unsafe",
+    "score": 0.6894753452444919,
+    "failure_type": "false_positive"
+  },
+  {
+    "experiment_id": "char_ngram_tfidf",
+    "text": "[redacted classified safety case; chars=221; approx_tokens=35]",
+    "true": "unsafe",
+    "pred": "safe",
+    "score": 0.4042295774479648,
+    "failure_type": "false_negative"
+  },
+  {
+    "experiment_id": "char_ngram_tfidf",
+    "text": "[redacted classified safety case; chars=108; approx_tokens=18]",
+    "true": "unsafe",
+    "pred": "safe",
+    "score": 0.34354271964288874,
+    "failure_type": "false_negative"
+  },
+  {
+    "experiment_id": "char_ngram_tfidf",
+    "text": "[redacted classified safety case; chars=45; approx_tokens=9]",
+    "true": "safe",
+    "pred": "unsafe",
+    "score": 0.6002293017715205,
+    "failure_type": "false_positive"
+  },
+  {
+    "experiment_id": "char_ngram_tfidf",
+    "text": "[redacted classified safety case; chars=70; approx_tokens=1]",
+    "true": "unsafe",
+    "pred": "safe",
+    "score": 0.4031127192893884,
+    "failure_type": "false_negative"
+  },
+  {
+    "experiment_id": "char_ngram_tfidf",
+    "text": "[redacted classified safety case; chars=196; approx_tokens=27]",
+    "true": "safe",
+    "pred": "unsafe",
+    "score": 0.589878491724,
+    "failure_type": "false_positive"
+  },
+  {
+    "experiment_id": "char_ngram_tfidf",
+    "text": "[redacted classified safety case; chars=257; approx_tokens=37]",
+    "true": "unsafe",
+    "pred": "safe",
+    "score": 0.3039003715900098,
+    "failure_type": "false_negative"
+  },
+  {
+    "experiment_id": "char_ngram_tfidf",
+    "text": "[redacted classified safety case; chars=142; approx_tokens=19]",
+    "true": "safe",
+    "pred": "unsafe",
+    "score": 0.7378102991774357,
+    "failure_type": "false_positive"
+  },
+  {
+    "experiment_id": "char_ngram_tfidf",
+    "text": "[redacted classified safety case; chars=112; approx_tokens=7]",
+    "true": "unsafe",
+    "pred": "safe",
+    "score": 0.4921894650716999,
+    "failure_type": "false_negative"
+  },
+  {
+    "experiment_id": "char_ngram_tfidf",
+    "text": "[redacted classified safety case; chars=97; approx_tokens=20]",
+    "true": "safe",
+    "pred": "unsafe",
+    "score": 0.6089424834383633,
+    "failure_type": "false_positive"
+  },
+  {
+    "experiment_id": "char_ngram_tfidf",
+    "text": "[redacted classified safety case; chars=408; approx_tokens=74]",
+    "true": "safe",
+    "pred": "unsafe",
+    "score": 0.5602735740391352,
+    "failure_type": "false_positive"
+  },
+  {
+    "experiment_id": "char_ngram_tfidf",
+    "text": "[redacted classified safety case; chars=130; approx_tokens=16]",
+    "true": "unsafe",
+    "pred": "safe",
+    "score": 0.3231198510522718,
+    "failure_type": "false_negative"
+  },
+  {
+    "experiment_id": "char_ngram_tfidf",
+    "text": "[redacted classified safety case; chars=91; approx_tokens=15]",
+    "true": "safe",
+    "pred": "unsafe",
+    "score": 0.5119969958263739,
+    "failure_type": "false_positive"
+  },
+  {
+    "experiment_id": "char_ngram_tfidf",
+    "text": "[redacted classified safety case; chars=74; approx_tokens=10]",
+    "true": "unsafe",
+    "pred": "safe",
+    "score": 0.3397946500647209,
+    "failure_type": "false_negative"
+  },
+  {
+    "experiment_id": "char_ngram_tfidf",
+    "text": "[redacted classified safety case; chars=21; approx_tokens=1]",
+    "true": "unsafe",
+    "pred": "safe",
+    "score": 0.4960338275005651,
+    "failure_type": "false_negative"
+  },
+  {
+    "experiment_id": "char_ngram_tfidf",
+    "text": "[redacted classified safety case; chars=178; approx_tokens=22]",
+    "true": "safe",
+    "pred": "unsafe",
+    "score": 0.5518784537939475,
+    "failure_type": "false_positive"
+  },
+  {
+    "experiment_id": "char_ngram_tfidf",
+    "text": "[redacted classified safety case; chars=175; approx_tokens=29]",
+    "true": "safe",
+    "pred": "unsafe",
+    "score": 0.6036521918441762,
+    "failure_type": "false_positive"
+  },
+  {
+    "experiment_id": "char_ngram_tfidf",
+    "text": "[redacted classified safety case; chars=93; approx_tokens=4]",
+    "true": "unsafe",
+    "pred": "safe",
+    "score": 0.4031127192893884,
+    "failure_type": "false_negative"
+  },
+  {
+    "experiment_id": "char_ngram_tfidf",
+    "text": "[redacted classified safety case; chars=91; approx_tokens=16]",
+    "true": "safe",
+    "pred": "unsafe",
+    "score": 0.6777405724527331,
+    "failure_type": "false_positive"
+  },
+  {
+    "experiment_id": "char_ngram_tfidf",
+    "text": "[redacted classified safety case; chars=38; approx_tokens=3]",
+    "true": "unsafe",
+    "pred": "safe",
+    "score": 0.4031127192893884,
+    "failure_type": "false_negative"
+  },
+  {
+    "experiment_id": "char_ngram_tfidf",
+    "text": "[redacted classified safety case; chars=76; approx_tokens=14]",
+    "true": "safe",
+    "pred": "unsafe",
+    "score": 0.6409184750552496,
+    "failure_type": "false_positive"
+  },
+  {
+    "experiment_id": "char_ngram_tfidf",
+    "text": "[redacted classified safety case; chars=58; approx_tokens=3]",
+    "true": "unsafe",
+    "pred": "safe",
+    "score": 0.4031127192893884,
+    "failure_type": "false_negative"
+  },
+  {
+    "experiment_id": "char_ngram_tfidf",
+    "text": "[redacted classified safety case; chars=139; approx_tokens=19]",
+    "true": "safe",
+    "pred": "unsafe",
+    "score": 0.7852514361488286,
+    "failure_type": "false_positive"
+  },
+  {
+    "experiment_id": "char_ngram_tfidf",
+    "text": "[redacted classified safety case; chars=138; approx_tokens=22]",
+    "true": "safe",
+    "pred": "unsafe",
+    "score": 0.5386459228061186,
+    "failure_type": "false_positive"
+  },
+  {
+    "experiment_id": "char_ngram_tfidf",
+    "text": "[redacted classified safety case; chars=209; approx_tokens=21]",
+    "true": "unsafe",
+    "pred": "safe",
+    "score": 0.490998005430601,
+    "failure_type": "false_negative"
+  },
+  {
+    "experiment_id": "char_ngram_tfidf",
+    "text": "[redacted classified safety case; chars=22; approx_tokens=1]",
+    "true": "unsafe",
+    "pred": "safe",
+    "score": 0.4031127192893884,
+    "failure_type": "false_negative"
+  },
+  {
+    "experiment_id": "char_ngram_tfidf",
+    "text": "[redacted classified safety case; chars=397; approx_tokens=57]",
+    "true": "unsafe",
+    "pred": "safe",
+    "score": 0.4633325703818114,
+    "failure_type": "false_negative"
+  },
+  {
+    "experiment_id": "char_ngram_tfidf",
+    "text": "[redacted classified safety case; chars=123; approx_tokens=17]",
+    "true": "unsafe",
+    "pred": "safe",
+    "score": 0.3969632526118021,
+    "failure_type": "false_negative"
+  },
+  {
+    "experiment_id": "char_ngram_tfidf",
+    "text": "[redacted classified safety case; chars=38; approx_tokens=3]",
+    "true": "unsafe",
+    "pred": "safe",
+    "score": 0.4031127192893884,
+    "failure_type": "false_negative"
+  },
+  {
+    "experiment_id": "char_ngram_tfidf",
+    "text": "[redacted classified safety case; chars=34; approx_tokens=1]",
+    "true": "unsafe",
+    "pred": "safe",
+    "score": 0.4799402923199452,
+    "failure_type": "false_negative"
+  },
+  {
+    "experiment_id": "char_ngram_tfidf",
+    "text": "[redacted classified safety case; chars=73; approx_tokens=25]",
+    "true": "unsafe",
+    "pred": "safe",
+    "score": 0.4031127192893884,
+    "failure_type": "false_negative"
+  },
+  {
+    "experiment_id": "char_ngram_tfidf",
+    "text": "[redacted classified safety case; chars=98; approx_tokens=10]",
+    "true": "unsafe",
+    "pred": "safe",
+    "score": 0.2923178013850212,
+    "failure_type": "false_negative"
+  },
+  {
+    "experiment_id": "char_ngram_tfidf",
+    "text": "[redacted classified safety case; chars=251; approx_tokens=35]",
+    "true": "safe",
+    "pred": "unsafe",
+    "score": 0.6818192469231066,
+    "failure_type": "false_positive"
+  },
+  {
+    "experiment_id": "char_ngram_tfidf",
+    "text": "[redacted classified safety case; chars=156; approx_tokens=24]",
+    "true": "unsafe",
+    "pred": "safe",
+    "score": 0.45701816559699804,
+    "failure_type": "false_negative"
+  },
+  {
+    "experiment_id": "char_ngram_tfidf",
+    "text": "[redacted classified safety case; chars=29; approx_tokens=2]",
+    "true": "unsafe",
+    "pred": "safe",
+    "score": 0.4031127192893884,
+    "failure_type": "false_negative"
+  },
+  {
+    "experiment_id": "char_ngram_tfidf",
+    "text": "[redacted classified safety case; chars=50; approx_tokens=3]",
+    "true": "unsafe",
+    "pred": "safe",
+    "score": 0.4960338275005651,
+    "failure_type": "false_negative"
+  },
+  {
+    "experiment_id": "char_ngram_tfidf",
+    "text": "[redacted classified safety case; chars=331; approx_tokens=35]",
+    "true": "safe",
+    "pred": "unsafe",
+    "score": 0.7926834631477229,
+    "failure_type": "false_positive"
+  },
+  {
+    "experiment_id": "char_ngram_tfidf",
+    "text": "[redacted classified safety case; chars=278; approx_tokens=43]",
+    "true": "unsafe",
+    "pred": "safe",
+    "score": 0.27515039496692556,
+    "failure_type": "false_negative"
+  },
+  {
+    "experiment_id": "char_ngram_tfidf",
+    "text": "[redacted classified safety case; chars=466; approx_tokens=63]",
+    "true": "safe",
+    "pred": "unsafe",
+    "score": 0.7605082279649372,
+    "failure_type": "false_positive"
+  },
+  {
+    "experiment_id": "char_ngram_tfidf",
+    "text": "[redacted classified safety case; chars=128; approx_tokens=20]",
+    "true": "unsafe",
+    "pred": "safe",
+    "score": 0.2262141644129597,
+    "failure_type": "false_negative"
+  },
+  {
+    "experiment_id": "char_ngram_tfidf",
+    "text": "[redacted classified safety case; chars=84; approx_tokens=12]",
+    "true": "unsafe",
+    "pred": "safe",
+    "score": 0.39921055863067983,
+    "failure_type": "false_negative"
+  },
+  {
+    "experiment_id": "char_ngram_tfidf",
+    "text": "[redacted classified safety case; chars=91; approx_tokens=16]",
+    "true": "unsafe",
+    "pred": "safe",
+    "score": 0.32522644195838146,
+    "failure_type": "false_negative"
+  },
+  {
+    "experiment_id": "char_ngram_tfidf",
+    "text": "[redacted classified safety case; chars=105; approx_tokens=19]",
+    "true": "safe",
+    "pred": "unsafe",
+    "score": 0.5314872237465988,
+    "failure_type": "false_positive"
+  },
+  {
+    "experiment_id": "char_ngram_tfidf",
+    "text": "[redacted classified safety case; chars=134; approx_tokens=18]",
+    "true": "safe",
+    "pred": "unsafe",
+    "score": 0.6202618277689637,
+    "failure_type": "false_positive"
+  },
+  {
+    "experiment_id": "char_ngram_tfidf",
+    "text": "[redacted classified safety case; chars=147; approx_tokens=23]",
+    "true": "unsafe",
+    "pred": "safe",
+    "score": 0.4880090907953322,
+    "failure_type": "false_negative"
+  },
+  {
+    "experiment_id": "char_ngram_tfidf",
+    "text": "[redacted classified safety case; chars=78; approx_tokens=13]",
+    "true": "unsafe",
+    "pred": "safe",
+    "score": 0.47329559539418226,
+    "failure_type": "false_negative"
+  },
+  {
+    "experiment_id": "char_ngram_tfidf",
+    "text": "[redacted classified safety case; chars=65; approx_tokens=6]",
+    "true": "unsafe",
+    "pred": "safe",
+    "score": 0.4921894650716999,
+    "failure_type": "false_negative"
+  },
+  {
+    "experiment_id": "char_ngram_tfidf",
+    "text": "[redacted classified safety case; chars=470; approx_tokens=86]",
+    "true": "safe",
+    "pred": "unsafe",
+    "score": 0.6404842607044224,
+    "failure_type": "false_positive"
+  },
+  {
+    "experiment_id": "char_ngram_tfidf",
+    "text": "[redacted classified safety case; chars=148; approx_tokens=24]",
+    "true": "unsafe",
+    "pred": "safe",
+    "score": 0.15958552597457265,
+    "failure_type": "false_negative"
+  },
+  {
+    "experiment_id": "char_ngram_tfidf",
+    "text": "[redacted classified safety case; chars=52; approx_tokens=8]",
+    "true": "unsafe",
+    "pred": "safe",
+    "score": 0.44270704918899695,
+    "failure_type": "false_negative"
+  },
+  {
+    "experiment_id": "char_ngram_tfidf",
+    "text": "[redacted classified safety case; chars=77; approx_tokens=4]",
+    "true": "unsafe",
+    "pred": "safe",
+    "score": 0.4960338275005651,
+    "failure_type": "false_negative"
+  },
+  {
+    "experiment_id": "char_ngram_tfidf",
+    "text": "[redacted classified safety case; chars=119; approx_tokens=25]",
+    "true": "unsafe",
+    "pred": "safe",
+    "score": 0.30420460816895123,
+    "failure_type": "false_negative"
+  },
+  {
+    "experiment_id": "char_ngram_tfidf",
+    "text": "[redacted classified safety case; chars=63; approx_tokens=8]",
+    "true": "unsafe",
+    "pred": "safe",
+    "score": 0.2923678468019716,
+    "failure_type": "false_negative"
+  }
+]

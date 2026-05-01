@@ -1,0 +1,41 @@
+{
+  "kind": "classification",
+  "title": "Multilingual LLM Safety Bench V2",
+  "report": "multilingual_safety_v2_research_report.md",
+  "dataset_path": "data/processed/classification_examples.jsonl",
+  "text_field": "text",
+  "label_field": "label",
+  "positive_labels": [
+    "1",
+    "2",
+    "unsafe"
+  ],
+  "group_field": "group",
+  "max_rows_full": 80000,
+  "max_rows_smoke": 1200,
+  "experiments": [
+    {
+      "id": "char_ngram_tfidf",
+      "method": "tfidf_char"
+    },
+    {
+      "id": "word_tfidf_lr",
+      "method": "tfidf_word"
+    },
+    {
+      "id": "gpu_char_mlp",
+      "method": "torch_mlp"
+    },
+    {
+      "id": "english_transfer_proxy",
+      "method": "transfer_proxy"
+    }
+  ],
+  "ablations": [
+    "language_family",
+    "unsafe_threshold",
+    "class_weight",
+    "samples_per_language"
+  ],
+  "discussion": "Multilingual moderation is dominated by language imbalance and script effects. V2 reports aggregate metrics only alongside per-language recall and hardest-language error slices."
+}
