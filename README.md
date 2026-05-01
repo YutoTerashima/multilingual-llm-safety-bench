@@ -55,3 +55,8 @@ The expanded benchmark includes 36 cases in
 [`datasets/full_multilingual_cases.json`](datasets/full_multilingual_cases.json)
 and an analysis report in
 [`reports/full_multilingual_analysis.md`](reports/full_multilingual_analysis.md).
+
+## Stratification Check
+
+`examples/check_stratification.py` verifies language and label distribution before
+comparing model behavior across languages.

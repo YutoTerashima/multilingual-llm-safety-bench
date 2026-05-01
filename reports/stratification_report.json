@@ -1,0 +1,19 @@
+{
+  "languages": {
+    "en": 12,
+    "ja": 12,
+    "zh": 12
+  },
+  "labels": {
+    "refusal_with_alternative": 18,
+    "safe_completion": 18
+  },
+  "language_label_pairs": {
+    "en:refusal_with_alternative": 6,
+    "en:safe_completion": 6,
+    "ja:refusal_with_alternative": 6,
+    "ja:safe_completion": 6,
+    "zh:refusal_with_alternative": 6,
+    "zh:safe_completion": 6
+  }
+}
