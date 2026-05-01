@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this project, please cite it as below."
+title: "multilingual-llm-safety-bench"
+authors:
+  - family-names: "Terashima"
+    given-names: "Yuto"
+date-released: "2026-05-02"
+repository-code: "https://github.com/YutoTerashima/multilingual-llm-safety-bench"
+contact:
+  - type: email
+    value: "yutoterashima4@gmail.com"
