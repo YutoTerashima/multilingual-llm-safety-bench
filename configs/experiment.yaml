@@ -1,0 +1,24 @@
+{
+  "kind": "classification",
+  "dataset": "lumees/multilingual-safety-classification-dataset",
+  "config": "default",
+  "split": "train",
+  "text_fields": [
+    "prompt"
+  ],
+  "label_expr": "safety_label",
+  "group_field": "lang",
+  "stratified_offsets": [
+    0,
+    5000,
+    10000,
+    20000,
+    50000,
+    100000,
+    150000,
+    200000
+  ],
+  "report": "multilingual_safety_gpu_benchmark.md",
+  "title": "Multilingual Safety GPU Benchmark",
+  "description": "Stratified multilingual safety classification with per-language analysis."
+}
