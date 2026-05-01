@@ -32,3 +32,14 @@ framing, limitations, and next experiments.
 ## Portfolio Notes
 
 This project connects the trilingual profile identity to a concrete multilingual AI-safety evaluation artifact.
+
+## Deeper Analysis
+
+`examples/run_analysis.py` computes per-language behavior distributions,
+confusion pairs, and review rate.
+
+## Experiment Artifacts
+
+- Taxonomy: [`datasets/hazard_taxonomy.json`](datasets/hazard_taxonomy.json)
+- Results: [`reports/multilingual_behavior_results.csv`](reports/multilingual_behavior_results.csv), [`reports/multilingual_behavior_results.json`](reports/multilingual_behavior_results.json)
+- Analysis: [`reports/multilingual_behavior_analysis.md`](reports/multilingual_behavior_analysis.md)
