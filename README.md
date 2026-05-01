@@ -43,3 +43,8 @@ confusion pairs, and review rate.
 - Taxonomy: [`datasets/hazard_taxonomy.json`](datasets/hazard_taxonomy.json)
 - Results: [`reports/multilingual_behavior_results.csv`](reports/multilingual_behavior_results.csv), [`reports/multilingual_behavior_results.json`](reports/multilingual_behavior_results.json)
 - Analysis: [`reports/multilingual_behavior_analysis.md`](reports/multilingual_behavior_analysis.md)
+
+## Calibration Metrics
+
+The benchmark includes balanced accuracy and cross-language behavior gap helpers,
+because raw pass rate hides whether one language is over-refusing more than another.
