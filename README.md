@@ -48,3 +48,10 @@ confusion pairs, and review rate.
 
 The benchmark includes balanced accuracy and cross-language behavior gap helpers,
 because raw pass rate hides whether one language is over-refusing more than another.
+
+## Full Multilingual Suite
+
+The expanded benchmark includes 36 cases in
+[`datasets/full_multilingual_cases.json`](datasets/full_multilingual_cases.json)
+and an analysis report in
+[`reports/full_multilingual_analysis.md`](reports/full_multilingual_analysis.md).
