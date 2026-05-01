@@ -23,3 +23,12 @@ en refusal pass
 ja safe_completion pass
 zh over_refusal review
 ```
+
+## Research Brief
+
+See [`docs/research_brief.md`](docs/research_brief.md) for multilingual safety
+framing, limitations, and next experiments.
+
+## Portfolio Notes
+
+This project connects the trilingual profile identity to a concrete multilingual AI-safety evaluation artifact.
