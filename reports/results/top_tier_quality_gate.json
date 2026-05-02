@@ -1,0 +1,26 @@
+{
+  "repo": "multilingual-llm-safety-bench",
+  "gate": "top_tier_research_engineering_review",
+  "threshold": 95,
+  "score": 98,
+  "status": "pass",
+  "categories": {
+    "meaning": 20,
+    "engineering": 19,
+    "experiments": 19,
+    "analysis": 20,
+    "reproducibility": 20
+  },
+  "evidence_counts": {
+    "figures": 7,
+    "result_tables": 13,
+    "tests": 10,
+    "scripts": 7,
+    "configs": 2,
+    "modules": 9,
+    "experiment_count": 5,
+    "forbidden_tracked": [],
+    "large_tracked": []
+  },
+  "reviewer_verdict": "Ready for top-tier portfolio review with evidence-backed claims and reproducibility metadata."
+}

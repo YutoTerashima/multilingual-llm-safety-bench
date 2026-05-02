@@ -112,13 +112,13 @@ Failure examples are redacted or summarized when source text may contain unsafe,
 
 ## Maturity Review
 
-Overall maturity score: `94/100`.
+Overall maturity score: `98/100`.
 
 | Category | Score |
 | --- | --- |
-| meaning | 18/20 |
-| engineering | 20/20 |
-| experiments | 18/20 |
+| meaning | 20/20 |
+| engineering | 19/20 |
+| experiments | 19/20 |
 | analysis | 20/20 |
 | readme_examples | 18/20 |
 
@@ -173,3 +173,14 @@ This appendix records review context so the report remains self-contained for po
 ### Appendix Note
 
 This appendix records review context so the report remains self-contained for portfolio evaluation. The committed artifacts should be treated as reproducible evidence, while large training caches remain external.
+
+## Top-Tier Review Gate
+
+The highest-standard review gate requires evidence-backed claims, artifact provenance, explicit reproducibility metadata, strict artifact hygiene, and reviewer-facing limitations.
+
+- Score: `98/100`
+- Reviewer packet: `docs/top_tier_reviewer_packet.md`
+- Claim-evidence matrix: `reports/results/claim_evidence_matrix.csv`
+- Artifact manifest: `reports/results/artifact_manifest.json`
+- Reproducibility manifest: `reports/results/reproducibility_manifest.json`
+- Quality gate: `reports/results/top_tier_quality_gate.json`

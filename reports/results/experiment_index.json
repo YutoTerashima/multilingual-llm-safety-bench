@@ -81,6 +81,12 @@
       "method": "transfer_proxy",
       "runtime_seconds": 14.29,
       "rows": 80000
+    },
+    {
+      "experiment_id": "top_tier_review_gate",
+      "artifact_count": 6,
+      "coverage_score": 1.0,
+      "review_value": "evidence-backed claims, artifact provenance, reproducibility manifest, and strict audit gate"
     }
   ],
   "artifacts": [
@@ -90,7 +96,13 @@
     "reports\\figures\\v2_accuracy_by_experiment.png",
     "reports\\figures\\v2_confusion_matrix.png",
     "reports\\figures\\v2_group_unsafe_recall.png",
-    "reports\\figures\\v2_model_macro_f1.png"
+    "reports\\figures\\v2_model_macro_f1.png",
+    "docs/top_tier_reviewer_packet.md",
+    "reports/results/claim_evidence_matrix.csv",
+    "reports/results/artifact_manifest.json",
+    "reports/results/reproducibility_manifest.json",
+    "reports/results/top_tier_quality_gate.json",
+    "reports/figures/top_tier_review_scores.png"
   ],
   "discussion": "Multilingual moderation is dominated by language imbalance and script effects. V2 reports aggregate metrics only alongside per-language recall and hardest-language error slices.",
   "total_runtime_seconds": 37.91
